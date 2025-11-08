@@ -4430,6 +4430,7 @@ mk04                                   // MK protection hack
 mk05                                   // Zenomorp 2012 Turbo Endurance
 mk06                                   // Zenomorp 2012 Turbo Projectile Insanity
 mk07
+mkr4legacy							   // Mortal Kombat Legacy version
 mk2                                    //parent
 mk2s01
 mk2s02
