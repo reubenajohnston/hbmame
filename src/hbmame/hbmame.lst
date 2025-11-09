@@ -4456,7 +4456,7 @@ umk2s05                                // Ultimate MKII Tournament Edition r5.0.
 mk3                                    //parent
 mk3s01
 mk3s02
-mk3r20legacy 						   //Mortal Kombat Legacy version
+mk3r21legacy 						   //Mortal Kombat Legacy version
 wwfmania                               //parent
 wwfmania01
 umk3                                   //parent
@@ -4508,6 +4508,7 @@ umk3tm20190417
 umk3tm20210809
 umk3plus20190921
 umk3plus20220307                       // umk3pb2
+umk3w                                  //Mortal Kombat Legacy version
 
 @source:midyunit.cpp
 smashtv                                //parent
