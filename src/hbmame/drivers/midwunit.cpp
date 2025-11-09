@@ -2404,7 +2404,7 @@ GAME( 2019, umk3tm20190417, umk3, wunit_picemu, mk3, midwunit_state, init_umk3, 
 GAME( 2021, umk3tm20210809, umk3, wunit_picemu, mk3, midwunit_state, init_umk3, ROT0, "TEAM UMK 3", "Ultimate Mortal Kombat 3 (Team Edition, 2021-08-09)", MACHINE_SUPPORTS_SAVE )
 GAME( 2019, umk3plus20190921,  umk3,  wunit_picsim, mk3, midwunit_state, init_mk3, ROT0, "Mortalkombatplus", "Ultimate Mortal Kombat 3 (Plus Beta 1, 2019-09-21)", MACHINE_SUPPORTS_SAVE )
 GAME( 2022, umk3plus20220307,  umk3,  wunit_picsim, mk3, midwunit_state, init_mk3, ROT0, "Mortalkombatplus", "Ultimate Mortal Kombat 3 (Plus Beta 2, 2022-03-07)", MACHINE_SUPPORTS_SAVE )
-GAME( 1994, umk3w,        0,        wunit_picemu, mk3,      midwunit_state, init_umk3,     ROT0, "Midway", "Ultimate Mortal Kombat 3 (Wavenet) - Legacy", MACHINE_SUPPORTS_SAVE )
+GAME( 1997, umk3w,        0,        wunit_picemu, mk3,      midwunit_state, init_umk3,     ROT0, "Midway", "Ultimate Mortal Kombat 3 (Net Rev 2.03 - KMD 1997-04-01) - Legacy", MACHINE_SUPPORTS_SAVE )
 
 // WWF Wrestlemania
 GAME( 2020, wwfmania01, wwfmania, wunit_picsim, wwfmania, midwunit_state, init_wwfmania, ROT0, "hack", "WWF: Wrestlemania (Acid Clown Edition, SP2, 2020-12-02)", MACHINE_SUPPORTS_SAVE )
