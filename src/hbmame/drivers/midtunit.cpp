@@ -933,7 +933,7 @@ GAME( 2017, mk2s03,      mk2,      tunit_dcs,   mk2,      midtunit_state, init_m
 GAME( 2018, mk2s04,      mk2,      tunit_dcs,   mk2,      midtunit_state, init_mk2,      ROT0, "mortalkombatplus.com", "Mortal Kombat II (2.8.5 plus beta 2, 2018-12-23)", MACHINE_SUPPORTS_SAVE )
 GAME( 1993, mk2s05,      mk2,      tunit_dcs,   mk2,      midtunit_state, init_mk2,      ROT0, "Midway", "Mortal Kombat II (3.3 prototype)", MACHINE_SUPPORTS_SAVE )
 GAME( 2021, mk2s06,      mk2,      tunit_dcs,   mk2,      midtunit_state, init_mk2,      ROT0, "hack", "Mortal Kombat II (SP4K, 2021-08-05)", MACHINE_SUPPORTS_SAVE )
-GAME( 1993, mk2r31legacy,      mk2,      tunit_dcs,   mk2,      midtunit_state, init_mk2,      ROT0, "Midway", "Mortal Kombat II (3.3 prototype) - Legacy", MACHINE_SUPPORTS_SAVE )
+GAME( 1993, mk2r31legacy,      mk2,      tunit_dcs,   mk2,      midtunit_state, init_mk2,      ROT0, "Midway", "Mortal Kombat II (rev 3.1) - Legacy", MACHINE_SUPPORTS_SAVE )
 
 // Ultimate Mortal Kombat II
 GAME( 2014, umk2s01,     mk2,      tunit_dcs,   mk2,      midtunit_state, init_mk2,      ROT0, "SK", "Ultimate Mortal Kombat II (Tournament Edition 5.0.050)", MACHINE_SUPPORTS_SAVE )
